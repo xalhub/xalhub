@@ -4,6 +4,6 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=xalhub&theme=light&show_icons=true&count_private=true)
 
-Visit my <a href="xalhub.github.io" target="_blank">GitHub Pages Site</a> under construction. 
+Visit my <a href="#" target="_blank" onclick="alert('xalhub.github.io');">GitHub Pages Site</a> under construction. 
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=xalhub&layout=compact)
